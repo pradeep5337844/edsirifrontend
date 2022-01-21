@@ -1,2 +1,0 @@
-# edsirifrontend
-frontend
